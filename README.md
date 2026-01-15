@@ -1,4 +1,4 @@
-# 🚀 API Automation Framework
+# 🏦 Banking Application API Automation Framework
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 ![RestAssured](https://img.shields.io/badge/RestAssured-5.3.0-blue?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**A production-ready REST API Automation Framework built with Java, TestNG, and RestAssured**
+**A production-ready Banking Application API Automation Framework built with Java, TestNG, and RestAssured**
 
 [Getting Started](#-getting-started) • [Features](#-key-features) • [Architecture](#%EF%B8%8F-framework-architecture) • [Documentation](#-demo-application-resources)
 
@@ -43,7 +43,7 @@ This is a **modular Java-based REST API Automation Framework** designed to test 
 ## 🏗️ Framework Architecture
 
 ```
-DemoAPIAutomationFramework/
+BankingApplicationAPIAutomationFramework/
 ├── 📁 src/test/java/com/api/
 │   │
 │   ├── 📁 base/                              # 🔧 Service Layer

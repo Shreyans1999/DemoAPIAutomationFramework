@@ -1,4 +1,4 @@
-name: API Test Framework
+name: Banking Application API Automation Framework
 
 on:
   push:
